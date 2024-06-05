@@ -1,5 +1,7 @@
 import random
 
+#participants: Emily and Veronica
+
 class Pirate:
 
     def __init__( self , name ):

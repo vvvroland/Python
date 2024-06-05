@@ -2,7 +2,7 @@ from classes.ninja import Ninja
 from classes.pirate import Pirate
 import random
 
-#participants: Emily and Veronica 
+#participants: Emily and Veronica
 
 michelangelo = Ninja("Michelanglo")
 jack_sparrow = Pirate("Jack Sparrow")

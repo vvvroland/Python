@@ -1,5 +1,7 @@
 import random
 
+#participants: Emily and Veronica
+
 class Ninja:
 
     def __init__( self , name ):
